@@ -88,6 +88,8 @@ The app expects this JSON structure:
 - ** View Toggle**: Switch between Year and Month timeline views
 
 ## Features Breakdown
+<img width="1258" height="679" alt="image" src="https://github.com/user-attachments/assets/78a0f1be-a440-4d04-9795-6ab7ac8e8371" />
+<img width="1266" height="1083" alt="image" src="https://github.com/user-attachments/assets/bd1acdb0-c8c2-4d91-88cf-4de9b21a649e" />
 
 ### Timeline Chart
 Shows the evolution of your music taste with:
